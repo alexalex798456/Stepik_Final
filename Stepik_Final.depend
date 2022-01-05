@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1640177539 source:/home/alex/Documents/IT/Stepik_Final/main.cpp
+	<iostream>
+	"HTTPServer.h"
+	"Utils.h"
+
+1640185079 /home/alex/Documents/IT/Stepik_Final/HTTPServer.h
+	<memory>
+	<string>
+	<set>
+
+1640268936 source:/home/alex/Documents/IT/Stepik_Final/HTTPServer.cpp
+	"HTTPServer.h"
+	<iostream>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<fcntl.h>
+	<unistd.h>
+	<cstring>
+	"HTTP1_0.h"
+
+1639776113 source:/home/alex/Documents/IT/Stepik_Final/Utils.cpp
+	"Utils.h"
+	<unistd.h>
+	<getopt.h>
+	<iostream>
+
+1636401596 /home/alex/Documents/IT/Stepik_Final/Utils.h
+	<string>
+
+1640385021 source:/home/alex/Documents/IT/Stepik_Final/HTTP1_0.cpp
+	"HTTP1_0.h"
+	<cstring>
+	<assert.h>
+	<sstream>
+	<fstream>
+	<iostream>
+
+1640377112 /home/alex/Documents/IT/Stepik_Final/HTTP1_0.h
+	<string>
+	<memory>
+
